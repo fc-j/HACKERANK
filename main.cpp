@@ -5,7 +5,7 @@ using namespace std;
 int main (){
 
     vector<int> enteros;
-    stringstream ss("holaa,24,3"); 
+    stringstream ss("holaa,24,3");                      
     int a=0; 
     while (ss>>a)
     {
